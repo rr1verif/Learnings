@@ -1,0 +1,5 @@
+The chip manufacturing process is prone to defects and the defects are commonly referred as faults. A fault is testable if there exists a well-specified procedure to expose it in the actual silicon.
+To make the task of detecting as many faults as possible in a design, we need to add additional logic; Design for testability (DFT) refers to those design techniques that make the task of testing feasible.
+In this article we will be discussing about the most common DFT technique for logic test, called Scan and ATPG. Before going into Scan and ATPG basics, let us first understand the concept of fault model.
+
+Source - https://vlsitutorials.com/dft-scan-and-atpg/ 
