@@ -3,3 +3,5 @@ To make the task of detecting as many faults as possible in a design, we need to
 In this article we will be discussing about the most common DFT technique for logic test, called Scan and ATPG. Before going into Scan and ATPG basics, let us first understand the concept of fault model.
 
 Source - https://vlsitutorials.com/dft-scan-and-atpg/ 
+
+The RTL is inserted with DFT related signal to run post-dft or tessent simulation like for UPF based power simulation.
