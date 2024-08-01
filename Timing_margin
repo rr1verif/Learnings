@@ -1,0 +1,9 @@
+Timing margin is an electronics term that defines the difference between the actual change in a signal and the latest time 
+at which the signal can change in order for an electronic circuit to function correctly.
+
+3 important timing parameters - https://en.wikipedia.org/wiki/Flip-flop_(electronics)#Timing_parameters
+Setup time (t su ) - The  minimum amount of time for which data needs to be held steady before the clock event (posedge of the clock),
+                     so that the data is reliably sampled by the clock.
+Hold time (t h) - The  minimum amount of time for which data needs to be held steady after the clock event (posedge of the clock),
+                   so that the data is reliably sampled by the clock.
+Clock to Output time (t co) - The time a flip-flop takes to change its output after the clock edge.
