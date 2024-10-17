@@ -1,0 +1,3 @@
+CDC stands for Clock Domain Crossing is a technique used in digital design to manage signals that cross between different clock domains.    
+When a signal crosses from one clock domain to another, it needs to be synchronized to the new clock to avoid metastability issues.
+Metastability can occur when a signal is sampled at a time when it is changing, leading to unpredictable behavior
