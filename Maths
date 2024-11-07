@@ -1,0 +1,10 @@
+1. What is the essence of matrix multiplication ?
+Ans - Vector multiplication. How do u mulitply 2 vectors? What do u mean by multiplying 2 vectors - Multiplying 2 vectors means 
+Linear transformation of 1 vectore wrt to other. 
+ref - https://www.youtube.com/watch?v=kYB8IZa5AuE&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=4
+
+2. What is meant by linear Transformation of vectors?
+Ans - Linear transformation is a transformation in 2D space where the vector line don't get curved and the origin is same as before the transformation
+
+3. What is convolution ?
+Ans - Convolution is like a filter. When we convolute 2 function we can consider 1 function as a filter over the other. 
