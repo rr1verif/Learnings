@@ -1,0 +1,2 @@
+Q. What is the difference between “-f” and “-F” in a filelist?
+Ans - “-f” or “-F” is used to mention the filelist in a file. “-f” takes the relative path from the current working directory whereas “-F” is used to denote the absolute path. 
