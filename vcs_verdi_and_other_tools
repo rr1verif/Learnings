@@ -1,0 +1,3 @@
+1. fsdbextract waves.fsdb -bt 0 -et 100000 -o result.fsdb -> This command when run on terminal is used to extract waveform between starttime denoted by " -bt "
+   and end time denoted by "-et". Use case is that if we are interested in any particular timeperiod or our verdi is crashing because waves.fsdb is too large, we can
+   utilize this to extract waves as per our requirement. Use "fsdbextract -h " to know more about this
