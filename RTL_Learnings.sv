@@ -1,3 +1,6 @@
+94. What is VCLP?
+Ans - VCLP stands for Voltage and Clock Level Power, a low power static rule checker used in VLSI. It helps to optimize power consumption in digital design.
+
 95. What is "ENTITY" in RTL?
 Ans - egister Transfer Level) design, an "entity" refers to a fundamental building block that defines the interface of a specific module or circuit, specifying its input and output signals,
 essentially acting as a blueprint for the module's functionality without detailing the internal logic, which is handled by the corresponding "architecture" section within the HDL code.
