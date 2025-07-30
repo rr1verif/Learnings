@@ -1,0 +1,18 @@
+1. Learn RTL - 
+
+Sequential Logic
+Verilog
+Quality Checks - How to write proper code
+DFT/DFD (basic)
+CSR
+Timing Analysis & SYnthesis
+Lint/CDC/RDC
+Voltage Domains, LS/ISO
+
+  Resources - https://www.youtube.com/watch?v=EDbutwR35bg&list=PLbMVogVj5nJSY-1XxFHgwgtj2F7mB7NuV
+    https://theswissbay.ch/pdf/Gentoomen%20Library/Digital%20Design/RTL%20Hardware%20Design%20Using%20VHDL.pdf
+    https://picture.iczhiku.com/resource/eetop/SyKdfdoUliKYAvmM.pdf
+    Low-POwer methodology manual
+
+
+
