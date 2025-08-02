@@ -1,13 +1,13 @@
 1. (r-1)'s complement = r^n - N -1, whre r is the base of the number N and N is the number itself. and n represents the number of bits
-This get reduced to (r^n-1) - N.  For ex 1's complement of 'b1
-01 => 111-101 => 1
+This get reduced to (r^n-1) - N.  For ex (2-1)'s complement of 5 i.e 'b101 => 111-101 => 010
 
 ```
 Check this : 
-So if u have to get 3's complement of 'b101, u have to convert it into base of 4 because (4-1)'s complement and the use = 333... - N to get the complement of that number.
-For 'b101 in base 4 is (12) so 3's complement of 11 is 33 - 12 = 21
+So if u have to get 3's complement of 5, u have to convert it into base of 4 because (4-1)'s complement and the use = 333... - N to get the complement of that number.
+For 5 in base 4 is (11) so 3's complement of 11 is 33 - 11 = 22
 ```
 
+2. 1's complement & 2's complement and there use-case.
 1's complement of the number is nothing but ~N. So 1's complement of 6 (0110) = 1001 i.e ~(6)
 To represent any negative number we take 2's complement of the corresponding +ve number. For to represent -6, we take 1's complement of 6 & add 1 => ~(0110)+1 => 1001 + 1 = 1010
 
